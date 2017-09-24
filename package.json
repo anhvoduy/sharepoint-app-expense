@@ -1,0 +1,23 @@
+{
+  "name": "client-coffee",
+  "version": "1.0.0",
+  "description": "Coffee App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhduyvo/client-coffee.git"
+  },
+  "author": "VO DUY ANH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhduyvo/client-coffee/issues"
+  },
+  "homepage": "https://github.com/anhduyvo/client-coffee#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
