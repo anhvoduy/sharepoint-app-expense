@@ -1,0 +1,15 @@
+az webapp deployment user set --user-name demo-app --password Bawu6741@zure
+
+az webapp create --name demo-cafehome  --resource-group Resource-Transport-Group --plan AppService-Transport-Plan --deployment-local-git
+
+http://demo-cafehome.azurewebsites.net
+
+az webapp deployment source config-local-git --name demo-cafehome --resource-group Resource-Transport-Group --query url --output tsv
+
+https://demo-app@demo-cafehome.scm.azurewebsites.net/demo-cafehome.git
+
+git remote add azure https://demo-app@demo-cafehome.scm.azurewebsites.net/demo-cafehome.git
+
+git push azure master
+
+http://demo-cafehome.azurewebsites.net
