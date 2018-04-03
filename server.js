@@ -3,7 +3,7 @@ var http = require('http');
 var path = require('path');
 
 var server = express();
-server.set('port', process.env.PORT || 3000);
+server.set('port', process.env.PORT || 8080);
 
 // register web app
 var public = path.join(__dirname, 'public');

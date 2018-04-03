@@ -1,7 +1,7 @@
 {
   "name": "client-coffee",
-  "version": "1.0.0",
-  "description": "Coffee App",
+  "version": "1.1.0",
+  "description": "Coffee WebSite Template & Docker",
   "main": "app.js",
   "scripts": {
     "start": "node app",
