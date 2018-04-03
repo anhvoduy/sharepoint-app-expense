@@ -1,9 +1,8 @@
 version: '2'
 services:
-  webcafe:
-    build: ./
+  web:
+    build: "./"
     ports:
      - "8080:8080"
     volumes:
      - ./:/usr/src/app
-    command: ["npm install", "npm start"]
