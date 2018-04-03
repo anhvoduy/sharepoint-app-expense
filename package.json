@@ -1,23 +1,16 @@
 {
-  "name": "client-coffee",
+  "name": "demo-cafe-website",
   "version": "1.1.0",
-  "description": "Coffee WebSite Template & Docker",
+  "description": "demo-cafe-website",
   "main": "app.js",
   "scripts": {
-    "start": "node app",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anhduyvo/client-coffee.git"
-  },
-  "author": "VO DUY ANH",
+  "author": "Vo Duy Anh",
+  "email": "duyanh2005@gmail.com",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/anhduyvo/client-coffee/issues"
-  },
-  "homepage": "https://github.com/anhduyvo/client-coffee#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.16.3"
   }
 }

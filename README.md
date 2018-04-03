@@ -1,2 +1,2 @@
-# demo-cafe
-demo-cafe
+# demo-cafe-website
+demo-cafe-website
