@@ -1,4 +1,4 @@
-az webapp deployment user set --user-name demo-app --password Bawu6741@zure
+az webapp deployment user set --user-name xxx --password yyy
 
 az webapp create --name demo-cafehome  --resource-group Resource-Transport-Group --plan AppService-Transport-Plan --deployment-local-git
 
