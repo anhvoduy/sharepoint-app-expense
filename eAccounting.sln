@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eAccounting", "eAccounting.csproj", "{DE291699-A4D3-48B3-9E99-FF6FBC7BD935}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eAccounting", "eAccounting\eAccounting.csproj", "{DE291699-A4D3-48B3-9E99-FF6FBC7BD935}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
