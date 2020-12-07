@@ -9,3 +9,8 @@
 
 # Visual Studio 2015 cache/options directory
 .vs/
+
+#test folder
+test/NetCoreSharePoint/bin
+test/NetCoreSharePoint/obj
+test/NetCoreSharePoint/*.user
