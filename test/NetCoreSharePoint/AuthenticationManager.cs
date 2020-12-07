@@ -16,7 +16,7 @@ namespace NetCoreSharePoint
         private static readonly HttpClient httpClient = new HttpClient();
         private const string tokenEndpoint = "https://login.microsoftonline.com/common/oauth2/token";
 
-        private const string defaultAADAppId = "75d89120-xxxx-yyyy-zzzz-8e6144edeb37";
+        private const string defaultAADAppId = "defaultAADAppId";
 
         // Token cache handling
         private static readonly SemaphoreSlim semaphoreSlimTokens = new SemaphoreSlim(1);
