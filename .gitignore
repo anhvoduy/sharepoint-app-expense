@@ -9,3 +9,14 @@
 
 # Visual Studio 2015 cache/options directory
 .vs/
+
+# test_console folder: NetCoreSharePoint
+test_console/NetCoreSharePoint/bin
+test_console/NetCoreSharePoint/obj
+test_console/NetCoreSharePoint/*.user
+
+# test_console folder: NetFrameSharePoint
+test_console/NetFrameSharePoint/packages/*
+test_console/NetFrameSharePoint/NetFrameSharePoint/bin
+test_console/NetFrameSharePoint/NetFrameSharePoint/obj
+test_console/NetFrameSharePoint/NetFrameSharePoint/*.user
