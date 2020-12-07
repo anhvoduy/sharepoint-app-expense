@@ -1,2 +1,2 @@
-# demo-cafe-website
-demo-cafe-website
+# eDMS
+eDocument Management System
