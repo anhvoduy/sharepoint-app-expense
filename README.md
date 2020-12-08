@@ -1,2 +1,2 @@
-# eDMS
-eDocument Management System
+# eAccounting
+eAccounting
