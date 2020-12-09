@@ -11,7 +11,7 @@ namespace NetFrameSharePoint
     {
         static void Main(string[] args)
         {
-            string siteUrl = "https://domain.sharepoint.com/";
+            string siteUrl = "https://development365.sharepoint.com/sites/develop/";
 
             //Get the realm for the URL
             string realm = TokenHelper.GetRealmFromTargetUrl(new Uri(siteUrl));

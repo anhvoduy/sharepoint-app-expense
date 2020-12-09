@@ -1,0 +1,48 @@
+﻿{
+  "appSettings": [
+    {      
+      "key": "ClientSigningCertificatePath",
+      "value": ""
+    },
+    {      
+      "key": "ClientSigningCertificatePassword",
+      "value": ""
+    },
+    {      
+      "key": "HostedAppHostName",
+      "value": ""
+    },
+    {      
+      "key": "HostedAppHostNameOverride",
+      "value": ""
+    },
+    {      
+      "key": "HostedAppName",
+      "value": ""
+    },
+    {      
+      "key": "HostedAppSigningKey",
+      "value": ""
+    },
+    {
+      "key": "ClientId",
+      "value": ""
+    },
+    {
+      "key": "ClientSecret",
+      "value": ""
+    },
+    {      
+      "key": "SecondaryClientSecret",
+      "value": ""
+    },
+    {      
+      "key": "IssuerId",
+      "value": ""
+    },
+    {      
+      "key": "Realm",
+      "value": ""
+    }
+  ]
+}
