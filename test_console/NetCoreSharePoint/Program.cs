@@ -22,9 +22,9 @@ namespace NetCoreSharePoint
 
         public static async Task Main(string[] args)
         {
-            Uri site = new Uri("https://domain.sharepoint.com/");
-            string user = "xxxxxx@domain.onmicrosoft.com";
-            string password = "xxxxxx";
+            Uri site = new Uri("https://development365.sharepoint.com/sites/develop/");
+            string user = "trump@development365.onmicrosoft.com";
+            string password = "SonyV@io1946";
             SecureString securePassword = GetSecureString(password);
 
             // Note: The PnP Sites Core AuthenticationManager class also supports this
