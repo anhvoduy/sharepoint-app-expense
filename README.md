@@ -1,2 +1,2 @@
-# eAccounting-net-core
-eAccounting-net-core
+# eAccounting
+eAccounting
