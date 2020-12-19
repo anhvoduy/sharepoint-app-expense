@@ -1,4 +1,4 @@
 # eAccounting
 - Net Core 3.1
-- SQL Server on Azure
+- SQL Server
 - Angular TypeScript + Bootstrap
